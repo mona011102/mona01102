@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D639&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;ML+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
+<div align="right">
+  <img align="right" alt="Girl coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+</div>
+
 ## Aspiring Full Stack Developer & ML Enthusiast with a passion for data-driven innovation from India
 
 - 🎓 B.Tech in Computer Science from Madhav Institute of Technology and Science, Gwalior
@@ -46,7 +50,10 @@
   </a>
 </div>
 
-
+<!-- Snake animation -->
+<div align="center">
+  <img alt="Snake Animation" src="https://github.com/mona011102/mona011102/blob/output/github-contribution-grid-snake.svg">
+</div>
 
 ---
 ⭐️ From [monicapatidar](https://github.com/mona011102)

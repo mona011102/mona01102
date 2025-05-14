@@ -41,7 +41,7 @@ Full Stack Developer & ML Enthusiast with a passion for building user-friendly a
 
 ## 📊 GitHub Stats
 
-![Monica's GitHub stats](https://github-readme-stats.vercel.app/api?username=monicapatidar&show_icons=true&theme=radical)
+![Monica's GitHub stats](https://github.com/mona011102))
 
 ## 🌱 Currently Learning
 

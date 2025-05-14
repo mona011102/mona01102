@@ -1,61 +1,55 @@
-# mona01102
-# Hi 👋, I'm Monica Patidar
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Monica Patidar
 
-> Full Stack Developer & ML Enthusiast from India
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D639&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;ML+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
 
-![Profile Views](https://monica-portfolio-showcase.lovable.app/)
-
-## 👩‍💻 About Me
-
-Full Stack Developer & ML Enthusiast with a passion for building user-friendly applications and exploring data-driven solutions.
+## Aspiring Full Stack Developer & ML Enthusiast with a passion for data-driven innovation from India
 
 - 🎓 B.Tech in Computer Science from Madhav Institute of Technology and Science, Gwalior
-- 💼 Web Development Intern - Enhanced site performance by 20%, developed responsive UI/UX
--
+  
+* 🌐 Web Development Intern | Enhanced site performance by 20%, developed responsive UI/UX, and optimized code for efficiency.
+  
+* 🔬 Machine Learning Researcher | Achieved high accuracy in predictive models and data analytics projects.
+
+## 📊 Project Highlights:
+* **Medical Management System Platform**: Built with React, Node.js and MongoDB, implemented secure payment gateway and user authentication.
+* **Price Prediction Model**: Machine learning application with 90% accuracy using Python and scikit-learn for predictive analytics.
 
 ## 🛠️ Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,react,nextjs,html,css,tailwind,nodejs,express,django,mongodb,mysql,postgres,tensorflow,git,docker,aws,firebase" />
+  </a>
+</p>
 
-- **Languages**: JavaScript, TypeScript, Python, Java
-- **Frontend**: React.js, Next.js, HTML5, CSS3, Tailwind CSS
-- **Backend**: Node.js, Express.js, Django
-- **Database**: MongoDB, MySQL, PostgreSQL
-- **ML/AI**: TensorFlow, PyTorch, scikit-learn
-- **Tools**: Git, Docker, AWS, Firebase
+🌱 Learning Interests: Cloud Computing, AI/ML Advanced Techniques, DevOps, Blockchain Technology
 
-## 🚀 Projects
+📬 Connect with me: patidarmonica53@gmail.com
 
-### Medical Management system Platform
-- Built with React, Node.js and MongoDB
-- Implemented secure payment gateway and user authentication
-- Optimized for mobile responsiveness and performance
+## 📈 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mona011102&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mona011102&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
-### Price Prediction Model
-- Machine learning application with 90% accuracy
-- Used Python and scikit-learn for predictive analytics
-- Deployed as a web service with Flask API
+## Connect with me:
+<div align="center">
+  <a href="https://linkedin.com/in/monicapatidar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:patidarmonica53@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://twitter.com/monicapatidar" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+  </a>
+</div>
 
-### Portfolio Website
-- Responsive design with modern UI/UX principles
-- Optimized for performance and SEO
-- Integrated CMS for easy content management
-
-## 📊 GitHub Stats
-
-![Monica's GitHub stats](https://github.com/mona011102))
-
-## 🌱 Currently Learning
-
-- Cloud Computing
-- AI/ML Advanced Techniques
-- DevOps
-- Blockchain Technology
-
-## 📫 How to Reach Me
-
-- LinkedIn: [Connect with me](https://linkedin.com/in/monicapatidar)
-- Email: patidarmonica53@gmail.com
-- Twitter: [@monicapatidar](https://twitter.com/monicapatidar)
+<!-- Snake animation -->
+<div align="center">
+  <img alt="Snake Animation" src="https://github.com/mona011102/mona011102/blob/output/github-contribution-grid-snake.svg">
+</div>
 
 ---
-
 ⭐️ From [monicapatidar](https://github.com/mona011102)
